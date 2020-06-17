@@ -10,6 +10,8 @@ Para hacer uso del proyecto solo debe clonar el repositorio o descargarlo direct
 ```bash
 java -cp target/herokusocketprimer-1.0-SNAPSHOT.jar co.edu.escuelaing.herokusocketprimer.HttpServer
 ```
+https://arswserver.herokuapp.com/
+
 
 ### Prerequisites
 
